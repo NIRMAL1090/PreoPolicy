@@ -2,7 +2,7 @@
 
 ## Usage Agreement
 
-By inviting the bot and using it, you agree to the following terms:
+By inviting the Preo bot and using it, you agree to the following terms:
 
 1. The bot will store your server's ID for the purpose of making server specfic options functional.
 2. The bot will **NOT** share your server's ID with any 3rd party companies or individuals.
@@ -26,4 +26,4 @@ You may opt out by removing the bot from any server you have the rights for.
   
 ## Concerns
 
-If you have any concerns regarding the terms please join the [support server](https://discord.gg/bqujhycPrD).
+If you have any concerns regarding the terms please join the [support server](https://discord.gg/vFRrT48RKs).
