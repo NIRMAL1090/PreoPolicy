@@ -8,4 +8,4 @@ Here, we have provided details about the data Preo collects and what its used fo
 - Your messages are **NEVER** stored, but we do access it for making anti-phishing, anti-abuse, message logs, auto-mod and song request channel work.
 
 ## Concerns
-- If you have any concerns regarding the data we collect, join the [support server](https://discord.gg/vFRrT48RKs). If you would like to delete your data, please remove the bot from your server, all the data will be automatically deleted.
+- If you have any concerns regarding the data we collect, join the [support server](https://discord.gg/3PRRhKpAva). If you would like to delete your data, please remove the bot from your server, all the data will be automatically deleted.
